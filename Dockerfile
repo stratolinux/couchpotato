@@ -27,7 +27,7 @@ VOLUME /videos
 ADD ./start.sh /start.sh
 RUN chmod u+x  /start.sh
 
-EXPOSE 8085
+EXPOSE 5050
 
 
 CMD ["/start.sh"]
