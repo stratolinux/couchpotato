@@ -1,4 +1,5 @@
-# docker couchpotato
+# docker stratolinux/couchpotato
+
 This is a Dockerfile to set up "CouchPotato" - (http://couchpota.to/)
 Build from docker file
 ```
